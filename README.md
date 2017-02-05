@@ -76,3 +76,5 @@ Edit the `template8` variable inside the `.conkyrc` file to change the units.
 ---
 
 <img src="preview.png" id="preview">
+
+*I've Hidden MAC and IP address for security reason. One last note, if you use a different WLAN or LAN card make sure to change it in the '.conkyrc' file.
